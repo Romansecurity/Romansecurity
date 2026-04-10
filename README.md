@@ -1,16 +1,55 @@
-## Hi there 👋
+# Hi, I'm Roman (Romansecutity) 👋
 
-<!--
-**Romansecurity/Romansecurity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Junior Python Backend Developer | 17 y.o.**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+Python developer focused on backend and Telegram bots.
+Hands-on experience building real-world solutions (automation, data handling, APIs).
+
+---
+
+## ⚙️ Tech Stack
+
+* **Python**
+* **FastAPI (basic)**
+* **SQL, MySQL, SQLite**
+* **aiogram**
+* **NumPy, Pandas**
+* **Git**
+* **Linux / Kali Linux**
+* REST API, parsing, OOP
+
+---
+
+## 💼 Experience
+
+**Telegram Bot for Taekwondo Federation**
+
+* Built full user flow (FSM)
+* Designed and integrated SQLite DB
+* Implemented admin features
+* Added data parsing
+* Deployed on Linux server
+
+---
+
+## 📂 Projects
+
+* https://github.com/Romansecurity/pythonprogect1.git
+
+---
+
+## 📫 Contact
+
+* Email: [roman.tihka2008@gmail.com](mailto:roman.tihka2008@gmail.com)
+* Telegram: @Rrmmm26
+
+---
+
+## 🎯 Goal
+
+Backend Python internship / junior position.
+
