@@ -38,7 +38,7 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 ## 📂 Projects
 
-* https://github.com/Romansecurity/pythonprogect1.git
+* 
 
 ---
 
