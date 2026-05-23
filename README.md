@@ -11,28 +11,38 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Tech Stack (Updated)
 
-* **Python**
-* **FastAPI (basic)**
-* **SQL, MySQL, SQLite**
-* **aiogram**
-* **NumPy, Pandas**
-* **Git**
-* **Linux / Kali Linux**
-* REST API, parsing, OOP
+# 🖥 Backend
+- Python 3.11  
+- FastAPI  
+- Uvicorn  
+- SQLAlchemy  
+- PostgreSQL / SQLite  
+- REST API design  
 
----
+# 💳 Payments
+- YooKassa API integration  
 
-## 💼 Experience
+# 🤖 Bots & Automation
+- aiogram (Telegram Bot API)  
 
-**Telegram Bot for Taekwondo Federation**
+# 📊 Data & Processing
+- NumPy  
+- Pandas  
 
-* Built full user flow (FSM)
-* Designed and integrated SQLite DB
-* Implemented admin features
-* Added data parsing
-* Deployed on Linux server
+# 🗄 Databases
+- SQL (PostgreSQL, SQLite, MySQL basics)  
+
+# 🔧 Dev Tools
+- Git / GitHub  
+- Linux / Kali Linux  
+- Virtual Environments (venv)  
+
+# 🧠 Programming Concepts
+- OOP (Object-Oriented Programming)  
+- API design principles  
+- Data parsing / web scraping basics  
 
 ---
 
