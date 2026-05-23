@@ -44,6 +44,8 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 *https://github.com/Romansecurity/Analysis-of-athletes.git
 
+*https://github.com/Romansecurity/money_project.git
+
 ---
 
 ## 📫 Contact
