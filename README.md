@@ -13,7 +13,7 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 ## ⚙️ Tech Stack (Updated)
 
-# 🖥 Backend
+### 🖥 Backend
 - Python 3.11  
 - FastAPI  
 - Uvicorn  
@@ -21,25 +21,25 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 - PostgreSQL / SQLite  
 - REST API design  
 
-# 💳 Payments
+### 💳 Payments
 - YooKassa API integration  
 
-# 🤖 Bots & Automation
+### 🤖 Bots & Automation
 - aiogram (Telegram Bot API)  
 
-# 📊 Data & Processing
+### 📊 Data & Processing
 - NumPy  
 - Pandas  
 
-# 🗄 Databases
+### 🗄 Databases
 - SQL (PostgreSQL, SQLite, MySQL basics)  
 
-# 🔧 Dev Tools
+### 🔧 Dev Tools
 - Git / GitHub  
 - Linux / Kali Linux  
 - Virtual Environments (venv)  
 
-# 🧠 Programming Concepts
+### 🧠 Programming Concepts
 - OOP (Object-Oriented Programming)  
 - API design principles  
 - Data parsing / web scraping basics  
