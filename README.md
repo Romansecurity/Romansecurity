@@ -15,7 +15,8 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 ### 🖥 Backend
 - Python 3.11  
-- FastAPI  
+- FastAPI
+- Flask
 - Uvicorn  
 - SQLAlchemy  
 - PostgreSQL / SQLite  
