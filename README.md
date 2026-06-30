@@ -11,7 +11,7 @@ Hands-on experience building real-world solutions (automation, data handling, AP
 
 ---
 
-## ⚙️ Tech Stack (Updated)
+## ⚙️ Tech Stack 
 
 ### 🖥 Backend
 - Python 3.11  
