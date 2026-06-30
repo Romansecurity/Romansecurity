@@ -12,61 +12,61 @@
 
 ## ⚙️ Tech Stack 
 
-### 🖥 Backend
-- Python 3.11
-- FastAPI
-- Flask
-- Uvicorn
-- SQLAlchemy
-- Pydantic
-- asyncio
-- PostgreSQL / SQLite
-- REST API design
-- Webhooks
+🖥 Backend
+Python 3.11
+FastAPI
+Flask
+Uvicorn
+SQLAlchemy
+Pydantic
+asyncio
+REST API design
+Webhooks
 
-### 💳 Payments
-- YooKassa API integration
+💳 Payments
+YooKassa API integration
 
-### 🤖 Bots & Automation
-- aiogram (Telegram Bot API)
-- FSM (Finite State Machine)
+🤖 Bots & Automation
+aiogram (Telegram Bot API)
+FSM (Finite State Machine)
 
-### 📊 Data & Processing
-- NumPy
-- Pandas
-- Jupyter Notebook
+📊 Data & Processing
+Pandas
+NumPy
+Jupyter Notebook
 
-### 🗄 Databases
-- SQL (PostgreSQL, SQLite, MySQL basics)
+🗄 Databases
+PostgreSQL
+SQLite
+MySQL (basic)
 
-### ☁️ Deployment & Infrastructure
-- Render
-- Netlify
+☁️ Deployment & Infrastructure
+Render
+Netlify
 
-### 🌐 Networking
-- TCP/IP
-- HTTP / HTTPS
-- FTP
-- OSI Model
+🌐 Networking
+HTTP/HTTPS
+TCP/IP
+REST
+FTP (basic understanding)
 
-### 🤖 AI-Assisted Development
-- Claude Code
-- GitHub Copilot
-- ChatGPT
-- DeepSeek
-- Grok
+🔧 Dev Tools
+Git / GitHub
+Linux / Kali Linux
+Virtual environments (venv)
 
-### 🔧 Dev Tools
-- Git / GitHub
-- Linux / Kali Linux
-- Virtual Environments (venv)
+🤖 AI-assisted development
+Claude Code
+ChatGPT
+GitHub Copilot
+DeepSeek
+Grok
 
-### 🧠 Programming Concepts
-- OOP (Object-Oriented Programming)
-- Layered Architecture
-- API design principles
-- Data parsing / web scraping
----
+🧠 Programming Concepts
+OOP
+Layered Architecture
+API design principles
+Data parsing / web scraping
 
 ## 📂 Projects
 
