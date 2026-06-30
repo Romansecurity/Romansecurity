@@ -6,8 +6,7 @@
 
 ## 🧠 About Me
 
-Python developer focused on backend and Telegram bots.
-Hands-on experience building real-world solutions (automation, data handling, APIs).
+Python backend developer focused on real-world applications, automation, APIs, and Telegram bots. Experienced in AI-assisted software development, effectively using Claude to accelerate development, explore architectural solutions, and improve code quality while maintaining engineering best practices.
 
 ---
 
